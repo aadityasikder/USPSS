@@ -44,6 +44,10 @@ git clone https://github.com/yourusername/universal-student-profiling.git
 
 7. (Optional) Follow the instructions in `kivy_to_apk.ipynb` to convert the Kivy application into an APK file for deployment on Android devices.
 
+# NOTE:
+In Future- 
+ For real-time activity and anomaly detection, the violence_nonviolence.h5 file will be used. Experimentation with Movinet stream models will also be conducted to identify which model works better for this feature.
+
 ## Contributors
 
 - [Aaditya Sikder](https://github.com/aadityasikder)
