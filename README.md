@@ -46,14 +46,11 @@ git clone https://github.com/yourusername/universal-student-profiling.git
 
 ## Contributors
 
-- [Your Name](https://github.com/yourusername)
-- [Additional Contributor](https://github.com/additionalcontributor)
+- [Aaditya Sikder](https://github.com/aadityasikder)
+- [Tridib jyoti Das](https://github.com/wheezydeeeb)
+- []
 
 ## License
 
 This project is licensed under the [MIT License](LICENSE). Feel free to modify and distribute it as per the terms of the license.
 
-## Acknowledgements
-
-- Special thanks to the contributors and developers of the libraries and frameworks used in this project.
-- Mention any specific acknowledgements or references here.
