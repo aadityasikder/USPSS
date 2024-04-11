@@ -52,7 +52,7 @@ In Future-
 
 - [Aaditya Sikder](https://github.com/aadityasikder)
 - [Tridib jyoti Das](https://github.com/wheezydeeeb)
-- []
+- [Yuvraj Dutta](https://gitHub.com/YDT007)
 
 ## License
 
